@@ -4,7 +4,7 @@ import { enumIcon } from '@/helper'
 
 export default createStore({
   state: () => ({
-    apiKey: 'EJqP48UgYDAxRVraNcK38c2vdYKDQm9j',
+    apiKey: 'wdIE69jydUmKe4OHINJ27R4OBD1qphZ5',
     currentWeather: null,
     weatherPerDay: null,
     weatherPerFiveDays: null,
