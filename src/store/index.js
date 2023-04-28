@@ -45,7 +45,7 @@ export default createStore({
 
   actions: {
     async getCurrentWeather({state, commit}) {
-      const response = await axios.get('http://dataservice.accuweather.com/currentconditions/v1/293546', {
+      const response = await axios.get('https://dataservice.accuweather.com/currentconditions/v1/293546', {
           params: {
             apikey: state.apiKey,
             details: true,
@@ -57,7 +57,7 @@ export default createStore({
     },
 
     async getWeatherPerDay({state, commit}) {
-      const response = await axios.get('http://dataservice.accuweather.com/forecasts/v1/hourly/12hour/293546', {
+      const response = await axios.get('https://dataservice.accuweather.com/forecasts/v1/hourly/12hour/293546', {
           params: {
             apikey: state.apiKey,
             details: true,
@@ -69,7 +69,7 @@ export default createStore({
     },
 
     async getWeatherPerFiveDays({state, commit}) {
-      const response = await axios.get('http://dataservice.accuweather.com/forecasts/v1/daily/5day/293546', {
+      const response = await axios.get('https://dataservice.accuweather.com/forecasts/v1/daily/5day/293546', {
           params: {
             apikey: state.apiKey,
             details: true,
