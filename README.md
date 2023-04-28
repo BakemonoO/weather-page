@@ -1,6 +1,6 @@
 # Тестовое задание Weather page для YOKO  #
 ## [Weather page](https://bakemonoo.github.io/weather-page/#/) ##
-[проект](https://psv4.userapi.com/c237331/u27278000/docs/d18/3b1d61eab166/Desktop_Screenshot_2023_04_28_-_09_04_59_59.png?extra=yTMZ8ImOXiyzqHSOcqy_sD8Yn9Gh1AQShFDoHk6I689rQa1hqNMal_Y4XzaZudmH_yt7fpmsZlL893S27FNYNKvnliYPVV77go2kwV3UrzHkJTOkmC30gV9fjI_vl16j8J65qqMASzY3nuwU_aL9H0A)
+<img src="https://psv4.userapi.com/c237331/u27278000/docs/d18/3b1d61eab166/Desktop_Screenshot_2023_04_28_-_09_04_59_59.png?extra=yTMZ8ImOXiyzqHSOcqy_sD8Yn9Gh1AQShFDoHk6I689rQa1hqNMal_Y4XzaZudmH_yt7fpmsZlL893S27FNYNKvnliYPVV77go2kwV3UrzHkJTOkmC30gV9fjI_vl16j8J65qqMASzY3nuwU_aL9H0A"></img>
 
 
     
